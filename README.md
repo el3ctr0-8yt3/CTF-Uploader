@@ -1,1 +1,1 @@
-"# CTF-Uploader" 
+# CTF-Uploader
